@@ -1,0 +1,19 @@
+# KiCad user-specific project data
+*.kicad_prl
+
+# Automatic backup folders
+*_backups/
+*.bak
+*.tmp
+*.autosave
+
+# Footprint and symbol cache files
+fp-info-cache
+sym-lib-table-bak
+*-cache.lib
+*-rescue.lib
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
